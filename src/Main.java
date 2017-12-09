@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static final String API_KEY = "75875021ae73554ded9dcfd8113b6389";
+    public static final String API_KEY = "**********************";
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Please enter the city: ");
